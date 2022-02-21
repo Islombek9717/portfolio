@@ -21,14 +21,14 @@ export const projects = [
     id: 1,
   },
   {
-    title: "Online Cinema Ticket Shop",
+    title: "FirdavsbekFarm",
     description:
-      "In this project I use my all HTML and CSS knowladge. I use hover, active, focus effects and also sass mixsins",
+      "In this project I use my all HTML and CSS knowladge. I use hover, active, focus effects and also some javascript codes",
     image:
-      "https://design4users.com/wp-content/uploads/2017/09/cinema-app-desktop.png",
-    tags: ["HTML", "CSS", "SASS"],
-    source: "https://github.com/Islombek9717/cinema_ticket_form_demo",
-    visit: "https://online-cinema.netlify.app/",
+      "https://scontent.ftas2-2.fna.fbcdn.net/v/t39.30808-6/274534089_134025272456133_4282271361917806142_n.png?stp=dst-png_p720x720&_nc_cat=102&ccb=1-5&_nc_sid=e3f864&_nc_ohc=M5SpM5CdGh8AX9c84mz&_nc_ht=scontent.ftas2-2.fna&oh=00_AT9WUm3G6yqoikGOsBHB7MViyRhbLmBqBmo5D4IWptcHvQ&oe=6218D8D0",
+    tags: ["HTML", "CSS", "JavaScript"],
+    source: "https://github.com/Islombek9717/firdavsbekfarm",
+    visit: "https://firdavsbek-farm.netlify.app/",
     id: 2,
   },
   {
